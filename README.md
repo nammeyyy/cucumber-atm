@@ -2,4 +2,4 @@
 
 [Cucumber presentation slide](https://github.com/ladyusa/cucumber-atm/blob/master/cucumber.pdf)
 
-น.ส.นุตปนะวีณ์ กาวี 6510450534
+น.ส.นุตประวีณ์ กาวี 6510450534
